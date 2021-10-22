@@ -1,0 +1,22 @@
+{
+  "name": "start-npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/zu-bel/js_school.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zu-bel/js_school/issues"
+  },
+  "homepage": "https://github.com/zu-bel/js_school#readme",
+  "dependencies": {
+    "webpack": "^5.59.1"
+  }
+}
